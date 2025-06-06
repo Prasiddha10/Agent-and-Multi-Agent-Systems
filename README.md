@@ -147,6 +147,5 @@ This project is licensed under the
 ## Acknowledgements
 
 * Multi-agent systems research community
-* Python threading and concurrency patterns
 * Open source contributors and maintainers
 
