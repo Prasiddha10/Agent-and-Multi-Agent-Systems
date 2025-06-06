@@ -144,4 +144,3 @@ This project is licensed under the
 
 * Multi-agent systems research community
 * Open source contributors and maintainers
-
