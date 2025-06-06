@@ -11,10 +11,6 @@ A distributed task processing system built with Python that coordinates multiple
 - Concurrent agent execution
 - Real-time task coordination
 
-## Tech Stack
-
-**Language:** Python 3.7+
-
 **Core Libraries:**
 - `threading` (concurrent execution)
 - `queue` (message passing)
