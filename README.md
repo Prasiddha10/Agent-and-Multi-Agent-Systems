@@ -1,6 +1,6 @@
 # Multi-Agent System
 
-A distributed task processing system built with Python that coordinates multiple specialized agents to handle complex workflows including research, analysis, and question-answering.
+A distributed task processing system built with Python that coordinates multiple specialized agents to handle complex workflows, including research, analysis, and question-answering.
 
 ## Features
 
@@ -47,7 +47,7 @@ The system consists of five specialized agents:
   git clone https://github.com/yourusername/multi-agent-system.git
 ```
 
-2. Navigate to project directory
+2. Navigate to the project directory
 ```bash
   cd multi-agent-system
 ```
@@ -61,7 +61,7 @@ The system consists of five specialized agents:
 ```javascript
 from multi_agent_system import MultiAgentSystem
 
-# Initialize and start the system
+# Initialise and start the system
 mas = MultiAgentSystem()
 mas.start()
 
@@ -87,7 +87,7 @@ mas.stop()
 
 ## start()
 ```
-Initializes and starts all agents in separate threads
+Initialises and starts all agents in separate threads
 ```
 ## stop()
 ```
@@ -100,7 +100,7 @@ Returns: Dictionary with status, result, duration, and steps
 ```
 ## get_system_status()
 ```
-Returns system status including active agents and memory usage
+Returns system status, including active agents and memory usage
 ```
 ## Roadmap
 
